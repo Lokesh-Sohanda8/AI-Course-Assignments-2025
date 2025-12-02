@@ -1,0 +1,15 @@
+numpy
+pandas
+tensorflow
+keras
+ipykernel
+matplotlib
+seaborn
+scikit-learn
+opencv-python
+tk
+torch
+torchvision
+torchaudio
+transformers
+tensorflow-datasets
